@@ -7,7 +7,7 @@ Berdasarkan data dari 12.330 pengunjung situs toko online, 84.5% pengunjung dike
 Oleh karena itu diperlukan analisa dengan machine learning untuk memprediksi niat beli pelanggan dengan menggunakan data riwayat pembelian dan interaksi situs
 
 ## Business Insight & Recommendation
-## Summary Insight
+## Summary Insightt
 
 <ol>
   <li> Jumlah revenue atau pendapatan yang didapat dari pelanggan lama atau yang kembali lebih banyak daripada pelanggan baru. Namun, tingkat konversi pelanggan baru lebih tinggi dibandingkan dengan pelanggan lama. Dari total pengujung sebanyak 85% merupakan pengunjung kembali ke situs dan 15% pengunjung adalah baru. Kita dapat memberikan tawaran atau campaign untuk menarik lebih banyak pengunjung baru agar tertarik melakukan pembelian pada situs web dan membuat pelanggan lama untuk melakukan transaksi kembali di situs web. </li>
